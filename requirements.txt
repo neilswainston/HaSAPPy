@@ -1,0 +1,7 @@
+matplotlib
+pysam
+HTseq
+pandas
+scipy
+xlsxwriter
+sklearn
